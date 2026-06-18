@@ -104,7 +104,7 @@ If you use this code or data, please cite:
 ```
 Arrabotu, C.S., Anita, J.P.: Multi-Objective Hybrid PSO–GA Algorithm with
 DAG-Aware Rescheduling for Task Offloading in Device–Edge–Cloud Collaborative
-Computing. Journal of Cloud Computing (under review), 2025.
+Computing. Journal of Cloud Computing (under review), 2026.
 ```
 
 ---
